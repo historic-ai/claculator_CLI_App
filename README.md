@@ -19,8 +19,12 @@ A simple command-line calculator built using Python.
    python calculator.py
 
 -> concepts Used
+
 Functions
+
 Loops
+
 Conditionals
+
 CLI Interaction
 
