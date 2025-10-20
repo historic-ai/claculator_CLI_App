@@ -1,5 +1,4 @@
-# claculator_CLI_App
-simple CLI calculator in python
+
 #  Calculator CLI App
 
 A simple command-line calculator built using Python.
